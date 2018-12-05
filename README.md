@@ -2,4 +2,7 @@
 This is my First Repository.
 
 I am getting started with Github.
-This is the beginning.
+
+This is just the beginning.
+
+**Soon I'm gonna take over the git...**
